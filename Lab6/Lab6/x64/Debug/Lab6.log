@@ -1,0 +1,4 @@
+﻿  Lab6.cpp
+C:\Users\2212d\source\repos\Lab6\Lab6\Lab6.cpp(34,40): warning C4101: e: неиспользованная локальная переменная
+C:\Users\2212d\source\repos\Lab6\Lab6\Lab6.cpp(43,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab6.vcxproj -> C:\Users\2212d\source\repos\Lab6\Lab6\x64\Debug\Lab6.exe
